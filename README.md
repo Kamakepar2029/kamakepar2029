@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Kamakepar2029/kamakepar2029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:
+   * List of Tools for hacking
+   * My own DDos Script
+   * Everything that you want
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning at W3shools
+   
+- 👯 I’m looking to collaborate on (Dashboard)[https://dashboard.cloud-appstorage.ru]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+(Github)[https://github.com/Kamakepar2029/]'
+(Telegram)[https://t.me/kamakepar_man]
+
+## Good Luck to everyone
